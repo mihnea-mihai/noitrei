@@ -1,12 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Italianno&display=swap');
+@import 'light-theme.css' (prefers-color-scheme: light);
+@import 'dark-theme.css' (prefers-color-scheme: dark);
+
 @font-face {
     font-family: 'Fedorovsk Unicode';
-    src: url('../font/FedorovskUnicode.otf');
+    src: url('/assets/font/FedorovskUnicode.otf');
+}
+
+p {
+    margin: unset;
+}
+
+svg {
+    fill: var(--color);
+    width: 100%;
 }
 
 body {
-    background-color: lightblue;
-    color: darkblue;
+    background-color: var(--bgcolor);
+    color: var(--color);
 
     padding: 1vh 1vw;
 
@@ -15,7 +27,7 @@ body {
     max-width: 960px;
     margin: auto;
     text-align: center;
-    border: 1em solid transparent;
+    /* border: 1em solid transparent; */
 }
 
 /* body {
@@ -33,7 +45,8 @@ body {
     border-image-slice: 12.5%;
 }
 
-.banner>img {
+.banner>img,
+.banner>svg {
     flex-basis: 2.5em;
     flex-shrink: 1;
     min-width: 1.5em;
@@ -57,6 +70,14 @@ body {
 body>* {
     padding: 0.5vh 0;
 }
+
+em {
+    font-size: 2em;
+    font-family: 'Italianno', cursive;
+    font-weight: bold;
+    font-style: unset;
+}
+
 
 .cursive {
     font-size: 4rem;
