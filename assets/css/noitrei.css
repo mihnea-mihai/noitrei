@@ -55,16 +55,19 @@ html[lang="vrom"] {
     border-image-slice: 12.5%;
 }
 
-.banner>img,
-.banner>svg {
-    flex-basis: 2.5em;
+.banner > * {
+    flex-basis: 3em;
     flex-shrink: 1;
-    min-width: 1.5em;
+    min-width: 1em;
+}
+
+.banner .title {
+    width: fit-content;
 }
 
 .banner > .title {
     flex-basis: content;
-    flex-shrink: 0;
+    flex-shrink: 5;
     font-size: 2em;
     /* flex-grow: 0; */
 }
@@ -82,7 +85,7 @@ body>* {
 }
 
 em {
-    font-size: 2em;
+    /* font-size: 2em; */
     font-family: 'Italianno', cursive;
     font-weight: bold;
     font-style: unset;
@@ -90,7 +93,7 @@ em {
 
 
 .cursive {
-    font-size: 4rem;
+    font-size: 2em;
     font-family: 'Italianno', cursive;
     font-weight: bold;
 }
@@ -106,9 +109,13 @@ img {
     display: inline-block;
 }
 
-table {
-    width: 45%;
+td {
+    padding: 1vh 5%;
 }
+
+/* table {
+    width: 45%;
+} */
 iframe.map {
     min-height: 100%;
     width: 45%;
