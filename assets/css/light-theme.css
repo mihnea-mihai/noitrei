@@ -1,4 +1,5 @@
 :root {
     --color: darkblue;
     --bgcolor: lightblue;
+    --border: url('/assets/img/Flourishly-Frame_dark.svg');
 }

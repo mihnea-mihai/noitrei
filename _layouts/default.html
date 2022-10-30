@@ -1,3 +1,8 @@
+---
+body_class: ""
+header_class: flower-frame
+---
+
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 
@@ -10,9 +15,11 @@
   <link rel="icon" type="image/svg+xml" href="/assets/img/stm.png">
 </head>
 
-<body>
+<body class="{{ layout.body_class }}">
   {% include html/header.html %}
-  {{ content }}
+  <main>
+    {{ content }}
+  </main>
 </body>
 
 </html>

@@ -1,6 +1,7 @@
 ---
 title: Noi trei
 url: /invitatie
+layout: invitation
 ---
 
 <p class="cursive">Ștefania, Mihnea și Bogdan</p>

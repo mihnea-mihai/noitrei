@@ -7,6 +7,16 @@
     src: url('/assets/font/FedorovskUnicode.otf');
 }
 
+/* Flower Frame */
+
+.flower-frame {
+    border: 1em solid transparent;
+    border-image-source: var(--border);
+    border-image-repeat: round;
+    border-image-slice: 13%;
+}
+
+
 p {
     margin: unset;
 }
@@ -15,6 +25,16 @@ svg {
     fill: var(--color);
     width: 100%;
 }
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
+  
 
 body {
     background-color: var(--bgcolor);
@@ -39,6 +59,9 @@ html[lang="vrom"] {
     font-size: 1.25em;
 }
 
+header > svg:hover {
+    animation: rotation 2s 1 linear;
+}
 
 /* body {
     border: 0.75em solid transparent;
@@ -46,14 +69,6 @@ html[lang="vrom"] {
     border-image-repeat: round;
     border-image-slice: 12.5%;
 } */
-
-
-.banner {
-    border: 0.75em solid transparent;
-    border-image-source: url('../img/Flourishly-Frame.svg');
-    border-image-repeat: round;
-    border-image-slice: 12.5%;
-}
 
 .banner > * {
     flex-basis: 3em;
