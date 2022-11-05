@@ -1,40 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Italianno&display=swap');
-@import 'light-theme.css' (prefers-color-scheme: light);
-@import 'dark-theme.css' (prefers-color-scheme: dark);
-
-@font-face {
-    font-family: 'Fedorovsk Unicode';
-    src: url('/assets/font/FedorovskUnicode.otf');
-}
-
-/* Flower Frame */
-
-.flower-frame {
-    border: 1em solid transparent;
-    border-image-source: var(--border);
-    border-image-repeat: round;
-    border-image-slice: 13%;
-}
-
-
-p {
-    margin: unset;
-}
-
-svg {
-    fill: var(--color);
-    width: 100%;
-}
-
-@keyframes rotation {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(359deg);
-    }
-  }
-  
+@import '/assets/css/light-theme.css' (prefers-color-scheme: light);
+@import '/assets/css/dark-theme.css' (prefers-color-scheme: dark);
+@import '/assets/css/tables.css';
+@import '/assets/css/border.css';
+@import '/assets/css/img.css';
+@import '/assets/css/header.css';
+@import '/assets/css/typography.css';
 
 body {
     background-color: var(--bgcolor);
@@ -47,44 +17,10 @@ body {
     max-width: 960px;
     margin: auto;
     text-align: center;
-    /* border: 1em solid transparent; */
 }
 
-html[lang="vrom"] span,
-html[lang="vrom"] p {
-    font-family: 'Fedorovsk Unicode' !important;    
-}
-
-html[lang="vrom"] {
-    font-size: 1.25em;
-}
-
-header > svg:hover {
-    animation: rotation 2s 1 linear;
-}
-
-/* body {
-    border: 0.75em solid transparent;
-    border-image-source: url('../img/1534028907.svg');
-    border-image-repeat: round;
-    border-image-slice: 12.5%;
-} */
-
-.banner > * {
-    flex-basis: 3em;
-    flex-shrink: 1;
-    min-width: 1em;
-}
-
-.banner .title {
-    width: fit-content;
-}
-
-.banner > .title {
-    flex-basis: content;
-    flex-shrink: 5;
-    font-size: 2em;
-    /* flex-grow: 0; */
+body>* {
+    padding: 1vh 0;
 }
 
 .flex-col-1-1-1 {
@@ -93,45 +29,4 @@ header > svg:hover {
     flex-wrap: nowrap;
     justify-content: space-around;
     align-items: center;
-}
-
-body>* {
-    padding: 0.5vh 0;
-}
-
-em {
-    /* font-size: 2em; */
-    font-family: 'Italianno', cursive;
-    font-weight: bold;
-    font-style: unset;
-}
-
-
-.cursive {
-    font-size: 2em;
-    font-family: 'Italianno', cursive;
-    font-weight: bold;
-}
-
-img {
-    width: 100%;
-}
-
-.col {
-    width: 100%;
-}
-.col > * {
-    display: inline-block;
-}
-
-td {
-    padding: 1vh 5%;
-}
-
-/* table {
-    width: 45%;
-} */
-iframe.map {
-    min-height: 100%;
-    width: 45%;
 }

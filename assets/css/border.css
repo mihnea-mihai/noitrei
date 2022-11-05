@@ -1,0 +1,7 @@
+body.invitation,
+body:not(.invitation) > header {
+    border: 3.5rem solid transparent;
+    border-image-source: var(--border);
+    border-image-repeat: round;
+    border-image-slice: 17.5% ;
+}

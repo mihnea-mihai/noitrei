@@ -1,13 +1,23 @@
 ---
 title: Ной трей
 lang: vrom
+body_class: invitation
 ---
 
+**_Щефания, Михнѣ ши Богдан_**
 
+въ кемъм кꙋ бꙋкꙋрие
 
+съ не фицй алътꙋрй пентрꙋ
 
-<p class="cursive">Щефания, Михнѣ ши Богдан</p>
+**_нꙋнтъ ши ботез_**
 
-въ инвитъм кꙋ мꙋлт драг съ не фицй алътꙋрй пентрꙋ
+| Când? | Unde? |
+| --- | --- |
+| Vom sărbători pe data de _2 iulie 2023_, începând cu ora 14. | Ceremoniile vor avea loc pe o pajiște în **Poiana lui Stângă** la _The Wedding House_. |
 
-<p class="cursive">нꙋнтъ ши ботез</p>
+Vъ аштептъм кꙋ драг!
+
+| Щефания | Михнѣ |
+| --- | --- |
+| {% include html/phone.html phone="+40 721 856 701" %} | {% include html/phone.html phone="+40 744 297 744" %} |

@@ -1,6 +1,4 @@
 ---
-body_class: ""
-header_class: flower-frame
 ---
 
 <!DOCTYPE html>
@@ -8,14 +6,13 @@ header_class: flower-frame
 
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="/assets/css/noitrei.css">
-  <link rel="icon" type="image/svg+xml" href="/assets/img/stm.png">
+  <link rel="icon" type="image/png" href="/assets/img/stm.png">
 </head>
 
-<body class="{{ layout.body_class }}">
+<body class="{{ page.body_class }}">
   {% include html/header.html %}
   <main>
     {{ content }}

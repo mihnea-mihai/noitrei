@@ -1,15 +1,22 @@
 ---
 title: Noi trei
-url: /invitatie
-layout: invitation
+body_class: invitation
 ---
 
-<p class="cursive">Ștefania, Mihnea și Bogdan</p>
+**_Ștefania, Mihnea și Bogdan_**
 
-vă invităm cu mult drag să ne fiți alături pentru
+vă invităm cu bucurie
 
-<p class="cursive">nuntă și botez</p>
+să ne fiți alături pentru
+
+**_nuntă și botez_**
 
 | Când? | Unde? |
 | --- | --- |
-| Vom sărbători pe data de _2 iulie 2023_, începând cu orele 14. | Atât ambele ceremonii religioase cât și petrecerea vor avea loc la _The Wedding House_. |
+| Vom sărbători pe data de _2 iulie 2023_, începând cu ora 14. | Ceremoniile vor avea loc pe o pajiște în **Poiana lui Stângă** la _The Wedding House_. |
+
+Vă așteptăm cu drag!
+
+| Ștefania | Mihnea |
+| --- | --- |
+| {% include html/phone.html phone="+40 721 856 701" %} | {% include html/phone.html phone="+40 744 297 744" %} |

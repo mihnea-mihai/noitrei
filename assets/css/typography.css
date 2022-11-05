@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Italianno&display=swap');
+@font-face {
+    font-family: 'Fedorovsk Unicode';
+    src: url('/assets/font/FedorovskUnicode.otf');
+}
+
+em,
+.cursive {
+    font-family: 'Italianno', cursive;
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong>em {
+    font-size: 2em;
+}
+
+p {
+    margin: 1vh 0;
+}
+
+html[lang="vrom"] * {
+    font-family: 'Fedorovsk Unicode' !important;    
+}
+
+html[lang="vrom"] {
+    font-size: 1.25em;
+}
+
