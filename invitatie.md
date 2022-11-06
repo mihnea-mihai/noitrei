@@ -11,12 +11,12 @@ să ne fiți alături pentru
 
 **_nuntă și botez_**
 
-| Când? | Unde? |
+| [Când?](cand) | [Unde?](unde) |
 | --- | --- |
-| Vom sărbători pe data de _2 iulie 2023_, începând cu ora 14. | Ceremoniile vor avea loc pe o pajiște în **Poiana lui Stângă** la _The Wedding House_. |
+| **Duminică**, _2 iulie 2023_, de la ora 14. | _The Wedding House_, **Poiana lui Stângă**, jud. Giurgiu. |
 
 Vă așteptăm cu drag!
 
 | Ștefania | Mihnea |
 | --- | --- |
-| {% include html/phone.html phone="+40 721 856 701" %} | {% include html/phone.html phone="+40 744 297 744" %} |
+| {% include html/phone.html phone="+40 727 856 701" %} | {% include html/phone.html phone="+40 744 297 744" %} |

@@ -1,0 +1,15 @@
+@import '/assets/css/light-theme.css' (prefers-color-scheme: light);
+@import '/assets/css/dark-theme.css' (prefers-color-scheme: dark);
+
+body {
+    background-color: var(--bgcolor);
+    color: var(--color);
+}
+
+svg {
+    fill: var(--color);
+}
+
+a {
+    color: green;
+}

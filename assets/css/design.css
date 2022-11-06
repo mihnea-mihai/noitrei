@@ -1,0 +1,48 @@
+body.invitation {
+    border: min(5vw, 3rem) solid transparent;
+}
+
+body:not(.invitation) > header {
+    border: min(3vw, 2rem) solid transparent;
+}
+
+body.invitation,
+body:not(.invitation) > header {
+    border-image-source: var(--border);
+    border-image-repeat: round;
+    border-image-slice: 17.5% ;
+}
+
+svg {
+    width: 100%;
+}
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+}
+
+header > svg:hover {
+    animation: rotation 2s 1 linear;
+}
+
+header > * {
+    flex-basis: 3em;
+    flex-shrink: 1;
+    min-width: 1em;
+}
+
+header .title {
+    width: fit-content;
+}
+
+header > .title {
+    flex-basis: content;
+    flex-shrink: 5;
+    font-size: 2em;
+    /* flex-grow: 0; */
+}

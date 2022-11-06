@@ -6,13 +6,13 @@ body_class: invitation
 
 **_Щефания, Михнѣ ши Богдан_**
 
-въ кемъм кꙋ бꙋкꙋрие
+въ кемъм кꙋ бꙋкꙋріе
 
 съ не фицй алътꙋрй пентрꙋ
 
 **_нꙋнтъ ши ботез_**
 
-| Când? | Unde? |
+| Кѫнд? | Ꙋнде? |
 | --- | --- |
 | Vom sărbători pe data de _2 iulie 2023_, începând cu ora 14. | Ceremoniile vor avea loc pe o pajiște în **Poiana lui Stângă** la _The Wedding House_. |
 
