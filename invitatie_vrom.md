@@ -14,9 +14,9 @@ body_class: invitation
 
 | Кѫнд? | Ꙋнде? |
 | --- | --- |
-| Vom sărbători pe data de _2 iulie 2023_, începând cu ora 14. | Ceremoniile vor avea loc pe o pajiște în **Poiana lui Stângă** la _The Wedding House_. |
+| Дꙋминикъ, а дѡа зи а лꙋй кꙋптор, лѣтꙋл ноꙋ 2023. | Пояна лꙋй Стѫнгъ, жꙋдецꙋл Џюрџю. |
 
-Vъ аштептъм кꙋ драг!
+Въ аштептъм кꙋ драг!
 
 | Щефания | Михнѣ |
 | --- | --- |

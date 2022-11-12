@@ -4,20 +4,38 @@
     src: url('/assets/font/FedorovskUnicode.otf');
 }
 
+@font-face {
+    font-family: 'caveat';
+    src: url('/assets/font/caveat.regular.ttf');
+}
+
+@font-face {
+    font-family: 'Lucy';
+    src: url('/assets/font/LucySaidOkPersonalUseItalic-OV9ee.ttf');
+}
+
 body {
     font-family: 'Fira Sans', sans-serif;
     font-size: 2em;
 }
 
+.lovely {
+    font-family: Lucy, cursive;
+    font-size: 2em;
+}
+
 em,
 .cursive {
-    font-family: 'Italianno', cursive;
+    font-family: 'caveat', cursive;
     font-style: normal;
-    font-weight: bold;
+    font-weight: unset;
+    /* font-weight: bold; */
 }
 
 strong>em {
     font-size: 2em;
+    font-style: normal;
+    font-weight: initial;
 }
 
 p {
@@ -30,6 +48,11 @@ html[lang="vrom"] * {
 
 html[lang="vrom"] {
     font-size: 1.25em;
+}
+
+html[lang="vrom"] a,
+html[lang="vrom"] svg {
+    display: none;
 }
 
 a {

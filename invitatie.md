@@ -3,7 +3,7 @@ title: Noi trei
 body_class: invitation
 ---
 
-**_Ștefania, Mihnea și Bogdan_**
+<p class="lovely">Ștefania, Mihnea și Bogdan</p>
 
 vă invităm cu bucurie
 
