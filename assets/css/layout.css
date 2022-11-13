@@ -33,6 +33,6 @@ p {
     margin: 1vh 0;
 }
 
-body:not(.invitation) {
-    min-width: 100vh;
+nav {
+    display: inline-block;
 }
