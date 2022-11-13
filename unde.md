@@ -12,6 +12,4 @@ Str. Principală 155, Poiana lui Stângă, jud. Giurgiu
 
 ⚠️👠 
 
-Vă recomandăm călduros să purtați încălțăminte comodă,
-
-căci terenul poate fi mai accidentat.
+Vă recomandăm călduros să purtați încălțăminte comodă.
