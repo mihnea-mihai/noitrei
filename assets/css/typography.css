@@ -61,3 +61,7 @@ a {
 .site > main {
     font-size: 0.75em;
 }
+
+.phone {
+    font-size: max(min(1em, 5vw), 0.75em);
+}
