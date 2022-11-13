@@ -1,5 +1,6 @@
 ---
 title: Site
+body_class: site
 ---
 
 ## Găzduire

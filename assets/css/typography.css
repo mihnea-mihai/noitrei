@@ -54,3 +54,7 @@ html[lang="vrom"] svg {
 a {
     text-decoration: none;
 }
+
+.site > main {
+    font-size: 0.75em;
+}
