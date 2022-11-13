@@ -26,12 +26,15 @@ body {
 .lovely {
     font-family: 'Lucy', 'caveat', cursive;
     font-size: 2em;
+    font-style: normal;
+    font-weight: lighter;
 }
 
 em {
     font-family: 'caveat', cursive;
     font-style: normal;
     font-weight: initial;
+    font-size: 1.25em;
 }
 
 strong>em {

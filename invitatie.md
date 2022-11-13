@@ -13,10 +13,10 @@ să ne fiți alături pentru
 
 | [Când?](cand) | [Unde?](unde) |
 | --- | --- |
-| **Duminică**, _2 iulie 2023_, de la ora 14. | _The Wedding House_, **Poiana lui Stângă**, jud. Giurgiu. |
+| _Duminică, **2 iulie 2023**, de la ora 14._ | _**The Wedding House**, Poiana lui Stângă, jud. Giurgiu._ |
 
 Vă așteptăm cu drag!
 
-| Ștefania | Mihnea |
+| <span class="lovely">Ștefania</span> | <span class="lovely">Mihnea</span> |
 | --- | --- |
 | {% include html/phone.html phone="+40 727 856 701" %} | {% include html/phone.html phone="+40 744 297 744" %} |
