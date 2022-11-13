@@ -5,7 +5,7 @@ html {
 body {
     padding: 1vh 1vw;
     max-width: 960px;
-    margin: auto;
+    margin: 0 auto;
     text-align: center;
 }
 
@@ -31,4 +31,8 @@ td {
 
 p {
     margin: 1vh 0;
+}
+
+body:not(.invitation) {
+    min-width: 100vh;
 }

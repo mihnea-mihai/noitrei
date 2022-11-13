@@ -13,6 +13,10 @@ body:not(.invitation) > header {
     border-image-slice: 17.5% ;
 }
 
+body.invitation > nav {
+    display: none;
+}
+
 svg {
     width: 100%;
 }
@@ -62,4 +66,9 @@ header > .title {
 td:hover>.heartbeat  {
     animation: heartbeat 1s infinite linear;
     display: block;
+    cursor: none;
+}
+
+iframe {
+    height: 20em;
 }
