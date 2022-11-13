@@ -1,3 +1,7 @@
+html {
+    min-height: 100vh;
+}
+
 body {
     padding: 1vh 1vw;
     max-width: 960px;
@@ -9,7 +13,7 @@ body>* {
     padding: 1vh 0;
 }
 
-.flex-col-1-1-1 {
+.flex {
     display: flex;
     flex-direction: row; 
     flex-wrap: nowrap;
@@ -23,4 +27,8 @@ table {
 
 td {
     padding: 1vh 1vw;
+}
+
+p {
+    margin: 1vh 0;
 }

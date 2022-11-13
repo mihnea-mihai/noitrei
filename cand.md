@@ -13,5 +13,7 @@ iulie 2023
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
 | 31 |  |  |  |  |  |  |
 
+{% include html/countdown.html %}
+
 Vom sărbători pe **2 iulie 2023**, \\
 începând cu ora 14.

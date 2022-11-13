@@ -1,7 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Italianno&display=swap');
 @font-face {
     font-family: 'Fedorovsk Unicode';
     src: url('/assets/font/FedorovskUnicode.otf');
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('/assets/font/FiraSans-Regular.ttf');
 }
 
 @font-face {
@@ -20,26 +24,18 @@ body {
 }
 
 .lovely {
-    font-family: Lucy, cursive;
+    font-family: 'Lucy', cursive;
     font-size: 2em;
 }
 
-em,
-.cursive {
+em {
     font-family: 'caveat', cursive;
-    font-style: normal;
-    font-weight: unset;
-    /* font-weight: bold; */
-}
-
-strong>em {
-    font-size: 2em;
     font-style: normal;
     font-weight: initial;
 }
 
-p {
-    margin: 1vh 0;
+strong>em {
+    font-size: 2em;
 }
 
 html[lang="vrom"] * {
