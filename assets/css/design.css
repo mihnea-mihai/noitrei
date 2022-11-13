@@ -26,6 +26,18 @@ svg {
     }
 }
 
+@keyframes heartbeat {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.5);
+    }
+    100% {
+      transform: scale(1);
+    }
+}
+
 header > svg:hover {
     animation: rotation 2s 1 linear;
 }
@@ -45,4 +57,9 @@ header > .title {
     flex-shrink: 5;
     font-size: 2em;
     /* flex-grow: 0; */
+}
+
+td:hover>.heartbeat  {
+    animation: heartbeat 1s infinite linear;
+    display: block;
 }
