@@ -17,6 +17,8 @@ să ne fiți alături pentru
 
 Vă așteptăm cu drag!
 
+[Confirmați aici!](https://docs.google.com/forms/d/e/1FAIpQLSe2G3fHizYtZrr8sp8zyXSqXelspJw1PXSAx-PvaghaEwTaxQ/viewform?usp=sf_link)
+
 | <span class="lovely">Ștefania</span> | <span class="lovely">Mihnea</span> |
 | --- | --- |
 | {% include html/phone.html phone="+40 727 856 701" %} | {% include html/phone.html phone="+40 744 297 744" %} |

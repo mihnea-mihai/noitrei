@@ -1,5 +1,5 @@
-@import '/assets/css/light-theme.css' (prefers-color-scheme: light);
-@import '/assets/css/dark-theme.css' (prefers-color-scheme: dark);
+@import '/assets/css/light-theme.css'(prefers-color-scheme: light);
+@import '/assets/css/dark-theme.css'(prefers-color-scheme: dark);
 
 body {
     background-color: var(--bgcolor);
@@ -12,4 +12,12 @@ svg {
 
 a {
     color: blueviolet;
+}
+
+main th a,
+main p a {
+    padding: 0.5rem;
+    border-radius: 1rem;
+    background: var(--color);
+    color: var(--bgcolor);
 }

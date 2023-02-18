@@ -12,4 +12,12 @@ Str. Principală 155, Poiana lui Stângă, jud. Giurgiu
 
 ⚠️👠 
 
-Vă recomandăm călduros să purtați încălțăminte comodă.
+Vă recomandăm să purtați încălțăminte comodă.
+
+🚌
+
+Se va organiza transport (dus-întors) de la Autogara Militari până la eveniment.
+
+🏠
+
+Există cazare disponibilă în satul unde va avea loc evenimentul.
