@@ -19,12 +19,13 @@ Mai sunt
 
 ## Program
 
+| 🚌 | 13<sup>30</sup> | Plecare Autogara Militari
 | 🤝 | 14<sup>00</sup> | Primirea invitaților |
 | 💒 | 15<sup>00</sup>  | Ceremonii religioase |
-| 🧆 | 17<sup>00</sup>  | Antreuri |
+| 🍰 | 16<sup>30</sup> | Prosecco & cake bar
+| 🧆 | 17<sup>30</sup>  | Aperitive |
 | 🕺💃 | 18<sup>00</sup> | Dansul mirilor |
-| 🍲 | 18<sup>30</sup> | Fel principal |
+| 🍲 | 20<sup>00</sup> | Fel principal |
 | 🎂 | 22<sup>00</sup> | Tort |
-| 🚌 | 23<sup>30</sup> | Cursa 1 retur |
-| 🚌 | 01<sup>00</sup> | Cursa 2 retur |
-| 🚌 | 02<sup>30</sup> | Cursa 3 retur |
+| 🚌 | 24<sup>00</sup> | Cursa 1 retur |
+| 🚌 | 02<sup>00</sup> | Cursa 2 retur |
