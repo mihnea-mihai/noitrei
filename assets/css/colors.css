@@ -17,7 +17,11 @@ a {
 main th a,
 main p a {
     padding: 0.5rem;
-    border-radius: 1rem;
+    border-radius: min(5px, 1rem);
     background: var(--color);
     color: var(--bgcolor);
+}
+
+a:hover {
+    opacity: 69%;
 }
