@@ -15,6 +15,10 @@ să ne fiți alături pentru
 | --- | --- |
 | _Duminică, **2 iulie 2023**, de la ora 14._ | _**The Wedding House**, Poiana lui Stângă, jud. Giurgiu._ |
 
+Ne vor fi alături nașii
+
+<p class="lovely">Katerina și Ionuț Dobrescu</p>
+
 Vă așteptăm cu drag!
 
 [Confirmați aici!](https://docs.google.com/forms/d/e/1FAIpQLSe2G3fHizYtZrr8sp8zyXSqXelspJw1PXSAx-PvaghaEwTaxQ/viewform?usp=sf_link)

@@ -21,3 +21,7 @@ Se va organiza transport (dus-întors) de la Autogara Militari până la evenime
 🏠
 
 Există cazare disponibilă în satul unde va avea loc evenimentul.
+
+📄
+
+În [formular](https://docs.google.com/forms/d/e/1FAIpQLSe2G3fHizYtZrr8sp8zyXSqXelspJw1PXSAx-PvaghaEwTaxQ/viewform?usp=sf_link) puteți menționa dacă vă interesează vreuna dintre opțiuni.
