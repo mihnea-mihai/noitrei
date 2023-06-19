@@ -1,5 +1,5 @@
-@import '/assets/css/light-theme.css'(prefers-color-scheme: light);
-@import '/assets/css/dark-theme.css'(prefers-color-scheme: dark);
+/* @import '/assets/css/light-theme.css'(prefers-color-scheme: light);
+@import '/assets/css/dark-theme.css'(prefers-color-scheme: dark); */
 
 body {
     background-color: var(--bgcolor);
@@ -10,9 +10,7 @@ svg {
     fill: var(--color);
 }
 
-a {
-    color: blueviolet;
-}
+
 
 main th a,
 main p a {
@@ -20,4 +18,10 @@ main p a {
     border-radius: 1rem;
     background: var(--color);
     color: var(--bgcolor);
+}
+
+:root {
+    --color: darkgreen;
+    --bgcolor: pink;
+    --border: url('/assets/img/Cyberscooty-Floral-Border-Extended-4-green.svg');
 }

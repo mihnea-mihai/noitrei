@@ -42,7 +42,7 @@ svg {
     }
 }
 
-header > svg:hover {
+header > a:hover > svg {
     animation: rotation 2s 1 linear;
 }
 

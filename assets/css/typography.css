@@ -1,3 +1,5 @@
+@import '/assets/css/print.css' print;
+
 @font-face {
     font-family: 'Fedorovsk Unicode';
     src: url('/assets/font/FedorovskUnicode.otf');
@@ -56,6 +58,7 @@ html[lang="vrom"] svg {
 
 a {
     text-decoration: none;
+    color: unset;
 }
 
 .site > main {
@@ -64,4 +67,8 @@ a {
 
 .phone {
     font-size: max(min(1em, 5vw), 0.75em);
+}
+
+.smaller > main {
+    font-size: smaller;
 }
