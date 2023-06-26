@@ -19,7 +19,7 @@ Mai sunt
 
 ## Program
 
-| 🚌 | 13<sup>30</sup> | Plecare Autogara Militari
+| 🚌 | 13<sup>30</sup> | Plecare Piața Victoriei
 | 🤝 | 14<sup>00</sup> | Primirea invitaților |
 | 💒 | 15<sup>00</sup>  | Ceremonii religioase |
 | 🍰 | 16<sup>30</sup> | Prosecco & cake bar
